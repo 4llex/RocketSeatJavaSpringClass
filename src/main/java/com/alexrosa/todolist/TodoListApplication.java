@@ -8,7 +8,7 @@ public class TodoListApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TodoListApplication.class, args);
-		System.out.println("-------------------Alex test");
+		System.out.println("------------------- Rocketseat Java springboot is running...2");
 	}
 
 }
